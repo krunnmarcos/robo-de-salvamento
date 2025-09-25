@@ -1,9 +1,9 @@
 import argparse
 import csv
 import pygame
-from maze import Maze
-from robot import Robot
-from gui import GUI
+from .maze import Maze
+from .robot import Robot
+from .gui import GUI
 
 def main():
     parser = argparse.ArgumentParser(description='Rescue Robot')
