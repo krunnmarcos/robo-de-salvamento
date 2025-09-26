@@ -1,3 +1,9 @@
+### integrantes
+
+Otavio Mello, 2023200542.
+Marcos Irenos, 2023101873. 
+Henrique Daniel, 2022202432.
+
 # Robô de Salvamento
 
 Este projeto foi desenvolvido para a disciplina de Serviços Cognitivos. O objetivo é simular o comportamento de um robô de salvamento em um labirinto, que deve encontrar uma pessoa e levá-la em segurança para a saída.
